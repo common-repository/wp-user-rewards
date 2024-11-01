@@ -1,0 +1,84 @@
+span.wp-user-rewards-title {
+    display: block;
+    text-align: center;
+    padding: 6px 0;
+    background-color: #E8AA29;
+    color: #FFF;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid #E5CC47;
+}
+
+div.wp-user-rewards-container img.qrcode {
+    display: block;
+    margin: 0 10px 10px 10px;
+}
+
+div.wp-user-rewards-author {
+    min-height: 120px;
+    padding: 10px;
+    background-color: #FFFFC8;
+}
+
+div.wp-user-rewards-author img.avatar {
+    display: block;
+    float: left;
+    margin-right: 10px;
+    width: 96px;
+}
+
+span.wp-user-rewards-author-name {
+    display: block;
+    margin-bottom: 4px;
+}
+
+span.wp-user-rewards-author-description {
+    color: #666;
+}
+
+div.wp-user-rewards-wechat,
+div.wp-user-rewards-alipay,
+div.wp-user-rewards-paypal {
+    width: 220px;
+    float: left;
+    background-color: #FFF;
+    color: #FFF;
+    border-radius: 4px;
+    margin: 10px 0 0 10px;
+}
+
+div.wp-user-rewards-wechat {
+    border: 1px solid #38B035;
+}
+
+div.wp-user-rewards-alipay {
+    border: 1px solid #06A7ED;
+}
+
+div.wp-user-rewards-paypal {
+    border: 1px solid #003087;
+}
+
+span.wp-user-rewards-wechat-title,
+span.wp-user-rewards-alipay-title,
+span.wp-user-rewards-paypal-title {
+    display: block;
+    text-align: center;
+    padding-top: 6px 0px;
+}
+
+span.wp-user-rewards-wechat-title {
+    background-color: #38B035;
+}
+
+span.wp-user-rewards-alipay-title {
+    background-color: #06A7ED;
+}
+
+span.wp-user-rewards-paypal-title {
+    background-color: #003087;
+}
+
+div.wp-user-rewards-paypal-link {
+    padding: 10px;
+}
